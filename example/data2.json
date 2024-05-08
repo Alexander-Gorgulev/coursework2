@@ -1,0 +1,76 @@
+{
+  "modern": {
+    "белый": [
+      "https://bigfoto.name/uploads/posts/2022-12/1670814165_62-bigfoto-name-p-dizain-kvartiri-v-belikh-tonakh-sovremenni-62.jpg"
+    ],
+    "черный": [
+      "https://mykaleidoscope.ru/uploads/posts/2021-03/1616624585_56-p-dizain-modern-interera-58.jpg"
+    ],
+    "синий": [
+      "https://i.pinimg.com/originals/db/65/62/db65625b6abcbabc298f970e23469a4d.jpg"
+    ],
+    "дерево": [
+      "https://les-stroi.ru/wp-content/uploads/7/3/0/73094da527594c1e55940f97c4b0b8d9.jpeg"
+    ],
+    "металл": [
+      "https://i2.wp.com/oppressionquest.com/wp-content/uploads/2018/01/metal-kitchen-cabinets.jpg"
+    ],
+    "other": [
+      "https://mykaleidoscope.ru/uploads/posts/2021-03/1616624615_39-p-dizain-modern-interera-41.jpg",
+      "https://i.pinimg.com/originals/9a/a4/3d/9aa43d9358d113679e6a8f6d21870538.jpg"
+    ]
+  },
+  "classical": {
+    "other": [
+      "https://mykaleidoscope.ru/uploads/posts/2021-03/1615543604_13-p-dizain-kvartiri-v-klassicheskom-stile-14.jpg",
+      "https://les-stroi.ru/wp-content/uploads/8/b/1/8b108fb97e7a1e53d08e704bc4434ef3.jpeg",
+      "https://releika.ru/wp-content/uploads/8/1/5/815116e59953bb11612cb37e731ade49.jpeg",
+      "https://terradream.ru/wp-content/uploads/7/8/f/78f03843be8912a238d8e062b6d613f8.jpeg",
+      "https://estatemebel.ru/wp-content/uploads/d/3/4/d34dd60714a3e5d8bd5035552bee8e7f.jpeg"
+    ]
+  },
+  "scandinavia": {
+    "other": [
+      "https://sidingvin.ru/wp-content/uploads/4/5/b/45bd256fdc24e7377d0ada9c104f52c1.jpeg",
+      "https://static.tildacdn.com/tild3764-3361-4230-b639-333166333136/image.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/59bc1936834011.572acf5fec574.jpg",
+      "https://i.pinimg.com/originals/e5/62/b5/e562b52242a9f707f4442020dfc4b03c.jpg",
+      "https://mykaleidoscope.ru/uploads/posts/2021-03/1616777639_25-p-sovremennii-skandinavskii-interer-26.png"
+    ]
+  },
+  "provencal": {
+    "other": [
+      "https://les-stroi.ru/wp-content/uploads/0/8/5/0854b1dabc4c027d2830d722e1db2d2e.jpeg",
+      "https://www.smalldesignideas.com/wp-content/uploads/2019/09/100-12.jpg",
+      "https://i.pinimg.com/originals/43/1e/27/431e27ffc49ffa08309fbdb4f77db940.jpg",
+      "https://a.1stdibscdn.com/trade/TRADE_PROJECT/1462990238_58510/farmhouse-mediterranean-kitchen-ojai-california-by-giannetti-home.jpg",
+      "https://mebel-complect.ru/wp-content/uploads/7/3/8/7382714f909d44e2bf94ff1ad852394a.jpeg"
+    ]
+  },
+  "boho": {
+    "other": [
+      "https://mykaleidoscope.ru/uploads/posts/2022-08/1660590645_1-mykaleidoscope-ru-p-bokho-mebel-dizain-krasivo-foto-1.jpg",
+      "https://mykaleidoscope.ru/uploads/posts/2022-08/1660590695_19-mykaleidoscope-ru-p-bokho-mebel-dizain-krasivo-foto-19.jpg",
+      "https://mebel-complect.ru/wp-content/uploads/5/7/5/575f67785c05fbd9ea66b09dbfa43e36.jpeg",
+      "https://mebel-complect.ru/wp-content/uploads/e/9/8/e987073ac151458f290d13ba4fae21f2.jpeg",
+      "https://mebel-complect.ru/wp-content/uploads/0/e/0/0e088f4af35f7c069fd7d79933e379b9.jpeg"
+    ]
+  },
+  "minimalism": {
+    "other": [
+      "https://i.pinimg.com/originals/9f/4a/1f/9f4a1f5459859aee76506fbdb82291f6.jpg",
+      "https://sksinmar.ru/wp-content/uploads/5/6/8/5687294e7e389eceef9b65dd9321da38.jpeg",
+      "https://magass.ru/wp-content/uploads/2021/07/1.3-min.jpg",
+      "https://master-decorator.ru/wp-content/uploads/6/0/1/6014eb3fbdef231c00084718a1c103d5.jpeg",
+      "https://betonpogreb.ru/wp-content/uploads/6/f/e/6fe07eeb7fada3e08f2ef523cc277467.jpeg"
+    ]
+  },
+  "other": {
+    "other": [
+      "https://duetdom.ru/wp-content/uploads/e/9/9/e999205027ae9cad4dc3c3fd391a2174.jpeg",
+      "https://ceramica-sp.ru/wp-content/uploads/1/d/f/1df51bc90e86cf19f9afbc53202aa0fc.jpeg",
+      "https://i.pinimg.com/originals/93/ae/d4/93aed43dbba7e10471b5c8aefdba098d.jpg",
+      "http://almode.ru/uploads/posts/2021-07/1626952371_1-almode_ru-p-sine-belie-steni-v-interere-1.jpg"
+    ]
+  }
+}
